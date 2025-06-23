@@ -9,7 +9,7 @@ const AccountDetails = ({ accountAddress, accountBalance }) => {
           Shroomie's marketplace where you can mint, buy or sell{" "}
           <i>Shroomies</i> and manage them.
         </p>
-        <hr className="my-4" />
+        <hr className="my-5" />
         <p className="lead">Account address :</p>
         <h4>{accountAddress}</h4>
         <p className="lead">Account balance :</p>
