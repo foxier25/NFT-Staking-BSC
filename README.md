@@ -9,4 +9,4 @@ Step 2 - Run command - truffle migrate --reset
 
 # Start Frontend
 
-Run command - npm start
+Run command - npm run start
